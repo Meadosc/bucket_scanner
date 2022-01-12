@@ -1,0 +1,3 @@
+prefix: "you file path here"
+prefix_start: "a prefix to start halfway through a filepath"
+s3_bucket_name: "your s3 bucket name here"
