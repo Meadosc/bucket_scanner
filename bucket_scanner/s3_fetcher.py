@@ -18,7 +18,7 @@ class Constants:
 		self.bucket = constants['s3_bucket_name']
 	
 
-def get_s3_data_chunk():	
+def get_s3_data():	
 	"""	Get s3 data chunk from prefix defined in constants.yaml """
 	const= Constants()
 	s3 = boto3.resource('s3')
