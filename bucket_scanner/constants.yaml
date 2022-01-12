@@ -1,3 +1,0 @@
-prefix: "aws_s3_path"
-prefix_start: ""
-s3_bucket_name: "bucket_name"
